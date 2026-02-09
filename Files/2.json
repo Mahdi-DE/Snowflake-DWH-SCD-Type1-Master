@@ -1,0 +1,4 @@
+{"location": {"id": "SP000992", "name": "Solar Station_992", "geo": {"latitude": -36.50982, "longitude": 141.86985, "altitude_m": 2998}, "region": {"country": "India", "subregion": "Catalonia", "land_area_m2": 2129}, "status_info": {"status": "Decommissioned", "production_records_date": "2023-01-10"}}, "technical_specs": {"capacity": {"value": 97444.0, "unit": "MW"}, "panels": {"details": {"type": "Polycrystalline", "count": 852316}}}, "operations": {"production_records": {"yearly": [{"year": 2025, "monthly": {"January": 44000, "February": 49092, "March": 66457000, "April": 33078, "May": 10817, "June": 21222, "July": 12338, "August": 53387, "September": 41097, "October": 14376, "November": 52978, "December": 31054}}]}}}
+
+
+
